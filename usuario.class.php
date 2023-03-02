@@ -35,7 +35,7 @@ class Usuario{
     }
 }
 //Creacion de instancias de los objetos usuarios
-$persona1 = new Usuario("1","Fernando","Guebara","CheGuebara200","Guebara2563");
+$persona1 = new Usuario("1","Fernando","Guebara","CheGuebara200","Guebara2564");
 $persona2 = new Usuario("2","Paola","Martinez","PaolitaFresa254","FresitaPower");
 $persona3 = new Usuario("3","Martin","Figueroa","MarFigue145","Guero7894");
 
